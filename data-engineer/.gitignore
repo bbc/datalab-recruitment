@@ -3,3 +3,4 @@
 *.tmp
 *.log
 *.txt
+!pidmap.txt
