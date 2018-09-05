@@ -15,10 +15,10 @@ We can suggest a few possible datasets to make this a little bit easier, but you
 - [Amazon Fine Food Reviews](https://www.kaggle.com/qwikfix/amazon-recommendation-dataset/data) provides reviews of fine foods from Amazon
 
 ## 2) Machine learning:
-Please build us a predictive model based on the ingested data. Why did you pick the specific technique(s) you used? What parameters matter in this case? What assumptions does the model make about the data that it is being trained on?
+Please build us a predictive model based on the ingested data. Why did you pick the specific technique(s) you used? What parameters matter in this case? What assumptions does the model make about the data that it is being trained on? How may the model adapt over time and continue to provide useful predictions?
 
 ## 3) Evaluation:
-Provide an evaluation of how your model performed – did it perform well? 
+Provide an evaluation of how your model performed – did it perform well?
 
 We recommend you use something like Jupyter notebooks to ensure that we can see the output of your code as well as the code. You are free to use any programming language, technologies or libraries that you want.
 
